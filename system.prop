@@ -1,0 +1,8 @@
+ro.product.board=bengal
+ro.board.platform=bengal
+sys.usb.controller=4e00000.dwc3
+persist.sys.isUsbOtgEnabled=true
+ro.boot.dynamic_partitions=true
+ro.adb.secure=0
+fbe.metadata.wrappedkey=true
+ro.crypto.volume.filenames_mode=aes-256-cts
